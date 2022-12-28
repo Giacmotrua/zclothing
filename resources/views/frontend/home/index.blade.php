@@ -95,7 +95,7 @@
     </section>
     <!-- Banner Section End -->
 
-    <!-- Product Section Begin -->
+    <!-- product Section Begin -->
     <section class="product spad">
         <div class="container">
             <div class="row">
@@ -159,7 +159,7 @@
             </div>
         </div>
     </section>
-    <!-- Product Section End -->
+    <!-- product Section End -->
 
     <!-- Categories Section Begin -->
 {{--    <section class="categories spad">--}}
